@@ -1,0 +1,12 @@
+{
+  "name": "desafios",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": " node --watch desafio_dos"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
